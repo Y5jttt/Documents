@@ -1,4 +1,4 @@
 ---
-title: 资源管理
+title: 玩家档案
 icon: laptop-code
 ---

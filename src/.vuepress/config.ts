@@ -9,14 +9,11 @@ export default defineUserConfig({
   locales: {
     "/": {
       lang: "zh-CN",
-      title: "文档演示",
-      description: "vuepress-theme-hope 的文档演示",
+      title: "NPUcraft文档",
+      description: "",
     },
-
   },
 
   theme,
-  // theme: hopeTheme({
-  //   print: false,
-  // }),
+
 });

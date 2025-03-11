@@ -5,13 +5,13 @@ import { zhSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
   hostname: "https://vuepress-theme-hope-docs-demo.netlify.app",
-
+  favicon: ".vuepress/public/NPUcraftLogo.png",
   author: {
-    name: "Mr.Hope",
+    name: "NPUcraft",
     url: "https://mister-hope.com",
   },
 
-  logo: "https://theme-hope-assets.vuejs.press/logo.svg",
+  logo: ".vuepress/public/NPUcraftLogo.png",
 
   repo: "vuepress-theme-hope/vuepress-theme-hope",
 
@@ -121,21 +121,23 @@ export default hopeTheme({
   plugins: {
     // Note: This is for testing ONLY!
     // You MUST generate and use your own comment service in production.
-    comment: {
-      provider: "Giscus",
-      repo: "vuepress-theme-hope/giscus-discussions",
-      repoId: "R_kgDOG_Pt2A",
-      category: "Announcements",
-      categoryId: "DIC_kwDOG_Pt2M4COD69",
-    },
+    // comment: {
+    //   provider: "Giscus",
+    //   repo: "vuepress-theme-hope/giscus-discussions",
+    //   repoId: "R_kgDOG_Pt2A",
+    //   category: "Announcements",
+    //   categoryId: "DIC_kwDOG_Pt2M4COD69",
+    // },
 
-    components: {
-      components: ["Badge", "VPCard"],
-    },
+    // components: {
+    //   components: ["Badge", "VPCard"],
+    // },
 
     icon: {
       prefix: "fa6-solid:",
     },
+
+    slimsearch: true,
 
     // Install @vuepress/plugin-pwa and uncomment these if you want a PWA
     // pwa: {
