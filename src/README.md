@@ -3,8 +3,8 @@ home: true
 icon: house
 title: 主页
 heroImage: https://npucraft-lsky-1304448012.cos.ap-chengdu.myqcloud.com/2025/03/12/67d182f1dbbf4.png
-bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
-bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
+bgImage: https://npucraft-lsky-1304448012.cos.ap-chengdu.myqcloud.com/2025/03/12/67d18ed71d92e.png
+bgImageDark: https://npucraft-lsky-1304448012.cos.ap-chengdu.myqcloud.com/2025/03/12/67d18f67e19fd.png
 bgImageStyle:
   background-attachment: fixed
 heroText: NPUcraft，有你所想
