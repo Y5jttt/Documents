@@ -5,13 +5,13 @@ import { zhSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
   hostname: "https://vuepress-theme-hope-docs-demo.netlify.app",
-  favicon: ".vuepress/public/NPUcraftLogo.png",
+  favicon: "https://npucraft-lsky-1304448012.cos.ap-chengdu.myqcloud.com/2025/03/12/67d182f1dbbf4.png",
   author: {
     name: "NPUcraft",
     url: "https://mister-hope.com",
   },
 
-  logo: ".vuepress/public/NPUcraftLogo.png",
+  logo: "https://npucraft-lsky-1304448012.cos.ap-chengdu.myqcloud.com/2025/03/12/67d182f1dbbf4.png",
 
   repo: "vuepress-theme-hope/vuepress-theme-hope",
 

@@ -2,7 +2,7 @@
 home: true
 icon: house
 title: 主页
-heroImage: .vuepress/public/NPUcraftLogo.png
+heroImage: https://npucraft-lsky-1304448012.cos.ap-chengdu.myqcloud.com/2025/03/12/67d182f1dbbf4.png
 bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
 bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 bgImageStyle:
