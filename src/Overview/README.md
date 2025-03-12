@@ -1,6 +1,6 @@
 ---
 title: 简介
-icon: laptop-code
+icon: material-symbols:overview-outline
 ---
 
 

@@ -1,4 +1,4 @@
 ---
 title: 赚钱
-icon: laptop-code
+icon: game-icons:receive-money
 ---

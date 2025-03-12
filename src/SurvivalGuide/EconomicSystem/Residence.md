@@ -1,4 +1,4 @@
 ---
 title: 领地
-icon: laptop-code
+icon: maki:residential-community
 ---

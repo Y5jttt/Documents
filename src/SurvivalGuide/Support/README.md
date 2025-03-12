@@ -1,4 +1,4 @@
 ---
 title: 常见问题
-icon: laptop-code
+icon: bx:support
 ---

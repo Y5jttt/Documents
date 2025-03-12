@@ -1,6 +1,6 @@
 ---
 title: 商店
-icon: laptop-code
+icon: vaadin:shop
 author: SUPER2FH
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 主服
-icon: laptop-code
+icon: geo:ui-earth-east
 ---
 
 ## **规划区域限制**

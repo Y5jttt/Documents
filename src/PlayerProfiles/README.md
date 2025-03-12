@@ -1,4 +1,4 @@
 ---
 title: 玩家档案
-icon: laptop-code
+icon: flowbite:profile-card-outline
 ---

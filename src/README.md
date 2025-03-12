@@ -1,6 +1,6 @@
 ---
 home: true
-icon: house
+icon: solar:home-bold
 title: 主页
 heroImage: https://npucraft-lsky-1304448012.cos.ap-chengdu.myqcloud.com/2025/03/12/67d182f1dbbf4.png
 bgImage: https://npucraft-lsky-1304448012.cos.ap-chengdu.myqcloud.com/2025/03/12/67d18ed71d92e.png
@@ -39,12 +39,12 @@ highlights:
     bgImage: https://theme-hope-assets.vuejs.press/bg/5-light.svg
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/5-dark.svg
     highlights:
-      - title: Q群:598445021
-        icon: blog
+      - title: 群：598445021
+        icon: cib:qq
         details:
         link: https://qm.qq.com/q/Mu9dtXLRq8
       - title: Bilibili
-        icon: blog
+        icon: meteor-icons:bilibili
         details: 
         link: https://space.bilibili.com/3493111812590559
   - header: 相关链接

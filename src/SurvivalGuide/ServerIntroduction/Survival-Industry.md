@@ -1,6 +1,6 @@
 ---
 title: 工业服
-icon: laptop-code
+icon: healthicons:machinery-outline
 ---
 
 基于Leaves核心的倾向生电化的世界，为量产常见资源与物品服务，可建造主服禁止的塔。抛却一切外物的纯粹为机器准备的世界，为白嫖而生。
