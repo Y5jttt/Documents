@@ -4,7 +4,7 @@ import theme from "./theme.js";
 
 import { hopeTheme } from "vuepress-theme-hope";
 export default defineUserConfig({
-  base: "/",
+  base: "/Documents/",
 
   locales: {
     "/": {
