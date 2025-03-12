@@ -1,6 +1,6 @@
 ---
 title: 基本命令
-icon: laptop-code
+icon: hugeicons:command-line
 author: SUPER2FH
 date: 2025-03-11
 ---

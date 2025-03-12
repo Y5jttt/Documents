@@ -1,6 +1,6 @@
 ---
 title: 账号注册
-icon: laptop-code
+icon: mdi:register-outline
 author: SUPER2FH
 date: 2025-03-11
 ---
