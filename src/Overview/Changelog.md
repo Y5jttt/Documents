@@ -1,6 +1,6 @@
 ---
 title: 更新日志
-icon: laptop-code
+icon: fluent-color:history-32
 author: SUPER2FH
 date: 2025-03-11
 ---

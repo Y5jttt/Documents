@@ -1,6 +1,6 @@
 ---
 title: 技术架构
-icon: laptop-code
+icon: lsicon:tree-outline
 author: SUPER2FH
 date: 2025-03-11
 ---
