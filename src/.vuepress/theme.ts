@@ -141,7 +141,7 @@ export default hopeTheme({
     docsearch: {
       appId: "OXA61NABVT",
       apiKey: "f9b6bc5ee79d4474d0215e50ad56c99d",
-      indexName: "NPUcraft",
+      indexName: "npucraft",
       placeholder: "搜索"
     },
     // Install @vuepress/plugin-pwa and uncomment these if you want a PWA
