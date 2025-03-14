@@ -137,8 +137,13 @@ export default hopeTheme({
       prefix: "fa6-solid:",
     },
 
-    slimsearch: true,
-
+    // slimsearch: true,
+    docsearch: {
+      appId: "OXA61NABVT",
+      apiKey: "f9b6bc5ee79d4474d0215e50ad56c99d",
+      indexName: "NPUcraft",
+      placeholder: "搜索"
+    },
     // Install @vuepress/plugin-pwa and uncomment these if you want a PWA
     // pwa: {
     //   favicon: "/favicon.ico",
