@@ -13,3 +13,11 @@ icon: material-symbols:overview-outline
 公网：`mc.npucraft.com`
 校园网：`lan.npucraft.com`
 ```
+
+<iframe
+style="width:728px;height:90px;max-width:100%;border:none;display:block;margin:auto;pointer-events:none"
+src="https://de.namemc.com/server/mc.npucraft.com/embed"
+width="728"
+height="90"
+sandbox="allow-same-origin">
+</iframe>
