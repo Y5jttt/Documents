@@ -7,7 +7,7 @@ export const zhSidebar = sidebar({
       "Changelog",
     ],
     "/QuickStart/": [
-      "",
+      // "",
       "Environment",
       "Register",
       "BasicCommands",
@@ -15,7 +15,7 @@ export const zhSidebar = sidebar({
     "/SurvivalGuide/": [
         {
             text: "生存服介绍",
-            icon: "lightbulb",
+            icon: "material-icon-theme:minecraft",
             link: "/SurvivalGuide/ServerIntroduction/",
             prefix: "/SurvivalGuide/ServerIntroduction/",
             collapsible: false,
@@ -28,7 +28,7 @@ export const zhSidebar = sidebar({
         },
         {
             text: "经济系统",
-            icon: "lightbulb",
+            icon: "noto:bank",
             link: "/SurvivalGuide/EconomicSystem/",
             prefix: "/SurvivalGuide/EconomicSystem/",
             collapsible: false,
@@ -41,7 +41,7 @@ export const zhSidebar = sidebar({
         },
         {
             text: "常见问题",
-            icon: "lightbulb",
+            icon: "fluent-color:notebook-question-mark-20",
             link: "/SurvivalGuide/Support/",
             prefix: "/SurvivalGuide/Support/",
             collapsible: false,

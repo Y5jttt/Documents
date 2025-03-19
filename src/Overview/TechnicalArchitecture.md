@@ -1,6 +1,6 @@
 ---
 title: 技术架构
-icon: lsicon:tree-outline
+icon: icon-park:server
 author: SUPER2FH
 date: 2025-03-11
 ---

@@ -1,6 +1,6 @@
 ---
 title: 插件介绍
-icon: arcticons:tiktok-plugin
+icon: vscode-icons:folder-type-minecraft-opened
 
 ---
 

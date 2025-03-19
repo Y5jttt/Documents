@@ -1,6 +1,6 @@
 ---
 title: 资源服
-icon: hugeicons:adventure
+icon: emojione:mountain
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 title: 商店
-icon: vaadin:shop
+icon: icon-park:shopping
 author: SUPER2FH
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 简介
-icon: material-symbols:overview-outline
+icon: icon-park:view-grid-detail
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 title: 基本命令
-icon: hugeicons:command-line
+icon: flat-color-icons:command-line
 author: SUPER2FH
 date: 2025-03-11
 ---

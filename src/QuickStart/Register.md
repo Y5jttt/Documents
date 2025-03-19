@@ -1,6 +1,6 @@
 ---
 title: 账号注册
-icon: mdi:register-outline
+icon: fluent-emoji:registered
 author: SUPER2FH
 date: 2025-03-11
 ---

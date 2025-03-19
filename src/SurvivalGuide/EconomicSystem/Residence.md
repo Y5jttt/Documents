@@ -1,4 +1,4 @@
 ---
 title: 领地
-icon: maki:residential-community
+icon: streamline-emojis:house-with-garden
 ---

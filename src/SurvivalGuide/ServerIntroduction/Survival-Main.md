@@ -1,6 +1,6 @@
 ---
 title: 主服
-icon: geo:ui-earth-east
+icon: fluent-emoji-flat:houses
 ---
 
 ## **规划区域限制**

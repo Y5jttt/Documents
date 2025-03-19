@@ -3,10 +3,10 @@ import { navbar } from "vuepress-theme-hope";
 export const zhNavbar = navbar([
   "/", // 主页
   "/Overview/", // 服务器概览
-  "/QuickStart/", // 快速开始
+  "/QuickStart/", // 快速入门
   {
     text: "生存服指南",
-    icon: "lightbulb",
+    icon: "noto:light-bulb",
     prefix: "/SurvivalGuide/",
     children: [
       "ServerIntroduction/",
@@ -20,9 +20,9 @@ export const zhNavbar = navbar([
 
   "/PlayerProfiles/",
 
-  {
-    text: "NPUskin",
-    icon: "book",
-    link: "https://skin.npucraft.com/",
-  },
+  // {
+  //   text: "NPUskin",
+  //   icon: "book",
+  //   link: "https://skin.npucraft.com/",
+  // },
 ]);
