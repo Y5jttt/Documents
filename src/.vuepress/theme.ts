@@ -25,7 +25,7 @@ export default hopeTheme({
       // sidebar
       sidebar: zhSidebar,
 
-      footer: "默认页脚",
+      footer: "  使用 <a href=\"https://theme-hope.vuejs.press/zh/\" target=\"_blank\">VuePress Theme Hope</a> 主题 | MIT 协议, 版权所有 © 2025-至今 | \n  <a href=\"https://beian.miit.gov.cn/\" target=\"_blank\">蜀ICP备2020036244号-2</a> ",
 
       displayFooter: true,
 
@@ -144,6 +144,8 @@ export default hopeTheme({
       indexName: "npucraft",
       placeholder: "搜索"
     },
+
+
     // search: true,
     // Install @vuepress/plugin-pwa and uncomment these if you want a PWA
     // pwa: {

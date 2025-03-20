@@ -12,7 +12,7 @@ heroFullScreen: true
 tagline: ''
 actions:
   - text: 快速入门
-    icon: lightbulb
+    icon: streamline-emojis:rocket
     link: ./QuickStart/
     type: primary
 highlights:
@@ -22,15 +22,15 @@ highlights:
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/1-dark.svg
     features:
       - title: 历史悠久
-        icon: network-wired
+        icon: openmoji:timer
         details: 始于2013年，五代周目技术迭代
 
       - title: 开放生态
-        icon: comment-dots
+        icon: icon-park:universal
         details: 1800+注册玩家，50+高校覆盖
 
       - title: 持久保障
-        icon: circle-info
+        icon: icon-park:hard-disk
         details: 7*24h在线，社团技术支持
 
   - header: 关于我们
@@ -54,19 +54,21 @@ highlights:
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/9-dark.svg
     highlights:
       - title: NPUskin皮肤站
-        icon: circle-half-stroke
+        icon: material-icon-theme:minecraft-fabric
         details: ''
         link: https://skin.npucraft.com
 
       - title: 生存服卫星地图
-        icon: palette
+        icon: emojione:world-map
         details: ''
         link: https://map.npucraft.com
 
       - title: 服务器数据面板
-        icon: ellipsis
+        icon: fluent-color:data-area-32
         details: ''
         link: https://plan.npucraft.com
 copyright: 
-footer: 使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VuePress Theme Hope</a> 主题 | MIT 协议, 版权所有 © 2025-至今
+footer: 
+  使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VuePress Theme Hope</a> 主题 | MIT 协议, 版权所有 © 2025-至今 | 
+  <a href="https://beian.miit.gov.cn/" target="_blank">蜀ICP备2020036244号-2</a>
 ---
