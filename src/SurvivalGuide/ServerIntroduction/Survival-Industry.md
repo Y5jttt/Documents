@@ -3,7 +3,7 @@ title: 工业服
 icon: noto-v1:factory
 ---
 
-基于Leaves核心的倾向生电化的世界，为量产常见资源与物品服务，可建造主服禁止的塔。抛却一切外物的纯粹为机器准备的世界，为白嫖而生。
+基于[Leaves核心](https://leavesmc.org/software/leaves)的倾向生电化的世界，为量产常见资源与物品服务，可建造主服禁止的塔。抛却一切外物的纯粹为机器准备的世界，为白嫖而生。
 
 ## **机器建造规范**
 
@@ -13,5 +13,15 @@ icon: noto-v1:factory
 ## **机器使用守则**
 
 - 使用他人或公共机器时，禁止随意操作控制部件或取走核心组件。
-- 使用前须阅读**《机器使用手册》**，误操作导致损坏请及时联系所有者。
+- 使用前须阅读[《机器使用手册》](/MachineInstructions/)，误操作导致损坏请及时联系所有者。
 - 公共机器存储箱允许适量取用资源，但存量时使用者有义务挂机补充。
+
+
+## **[卫星地图](https://map.npucraft.com/dynmap-industry/)**
+<iframe
+src="https://map.npucraft.com/dynmap-industry/"
+width="100%"
+height="600px"
+frameborder="0"
+allowfullscreen>
+</iframe>

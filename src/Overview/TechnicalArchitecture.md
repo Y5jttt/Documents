@@ -11,3 +11,13 @@ date: 2025-03-11
 1.群组服
 
 2.网络
+
+
+## **[数据面板](https://plan.npucraft.com)**
+<iframe
+src="https://plan.npucraft.com"
+width="100%"
+height="600px"
+frameborder="0"
+allowfullscreen>
+</iframe>

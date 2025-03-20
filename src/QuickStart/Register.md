@@ -17,11 +17,12 @@ date: 2025-03-20
 
 ::: note 如果您没有教育邮箱
 
-:::
-
 **方式一**：填写[NPUcraft无教育邮箱【注册申请】](https://docs.qq.com/form/page/DTVZtd3piRmdIdGlw)
 
-**方式二**：通过Minecraft高校联盟[MUA皮肤站](https://skin.mualliance.ltd/auth/register-notice)皮肤站注册（需有学信网），并同步修改启动器的外置登录服务器
+**方式二**：通过Minecraft高校联盟[MUA皮肤站](https://skin.mualliance.ltd/auth/register-notice)皮肤站注册，并同步修改启动器的外置登录服务器
+
+:::
+
 
 
 

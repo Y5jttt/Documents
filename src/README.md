@@ -67,6 +67,17 @@ highlights:
         icon: fluent-color:data-area-32
         details: ''
         link: https://plan.npucraft.com
+        
+      - title: NPUcraft图床
+        icon: fluent-emoji-flat:framed-picture
+        details: ''
+        link: https://lsky.npucraft.com
+        
+      - title: MCSM面板[管理专用]
+        icon: arcticons:minecraft-command
+        details: ''
+        link: http://mcsm.npucraft.com
+        
 copyright: 
 footer: 
   使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VuePress Theme Hope</a> 主题 | MIT 协议, 版权所有 © 2025-至今 | 

@@ -11,6 +11,7 @@ export const zhSidebar = sidebar({
       "Environment",
       "Register",
       "BasicCommands",
+      "HowToAsk",
     ],
     "/SurvivalGuide/": [
         {

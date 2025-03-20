@@ -1,20 +1,29 @@
 ---
 title: 赚钱
 icon: twemoji:money-mouth-face
+author: SUPER2FH
+date: 2025-03-20
 ---
 
-首次进服拥有10000🍉初始资金
 
-## 在线活跃奖励
+
+::: info 首次进服拥有**1,0000🍉**初始资金
+
+:::
+
+
+
+## 一、在线活跃奖励
 | 服务器名称 | 每小时奖励 | 单日上限 |
 | :------: | :----------: | :--------: |
-| 主服 | 100🍉       | 1000🍉    |
-| 工业服 | 150🍉       | 1500🍉    |
+| 主服 | 100🍉       | 1,000🍉   |
+| 工业服 | 150🍉       | 1,500🍉   |
 
-## 玩家交易
-参考[商店](/SurvivalGuide/EconomicSystem/Shop)
+## 二、玩家交易
+- [商店交易](/SurvivalGuide/EconomicSystem/Shop)
+- 直接转账：`/coins give <player> <amount>`
 
-## 任务
+## 三、任务
 政府/管理员不定期根据需求发布任务，金额随工作量动态变化。
 
 ### 撰写《机器手册》文档
@@ -25,7 +34,7 @@ icon: twemoji:money-mouth-face
 
 - **验收方式**：①[Github提交PR](https://github.com/NPUcraft/Documents)；②撰写Word/Markdown文件，并上传至[NPUcraft文档收集](https://docs.qq.com/form/page/DTUZWVHBKa3ZMa1R0) 
 
-- **任务奖励**：每份文档给予**5000~10000🍉**一次性奖励
+- **任务奖励**：每份文档给予**5,000~10,000🍉**一次性奖励
 
 - **有效时间**：长期有效
 
@@ -37,7 +46,7 @@ icon: twemoji:money-mouth-face
 
 - **验收方式**：①[Github提交PR](https://github.com/NPUcraft/Documents)；②撰写Word/Markdown文件，并上传至[NPUcraft文档收集](https://docs.qq.com/form/page/DTUZWVHBKa3ZMa1R0) 
 
-- **任务奖励**：每份文档给予**1000🍉**一次性奖励
+- **任务奖励**：每份文档给予**1,000🍉**一次性奖励
 
 - **有效时间**：长期有效
 
@@ -49,6 +58,6 @@ icon: twemoji:money-mouth-face
 
 - **验收方式**：①[Github提交PR](https://github.com/NPUcraft/Documents)；②撰写Word/Markdown文件，并上传至[NPUcraft文档收集](https://docs.qq.com/form/page/DTUZWVHBKa3ZMa1R0) 
 
-- **任务奖励**：视具体情况每份文档/修改给予**1000~20000🍉**一次性奖励
+- **任务奖励**：视具体情况每份文档/修改给予**1,000~20,000🍉**一次性奖励
 
 - **有效时间**：长期有效

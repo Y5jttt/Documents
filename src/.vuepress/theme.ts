@@ -81,7 +81,7 @@ export default hopeTheme({
     tabs: true,
     tasklist: true,
     vPre: true,
-
+    markmap: true
     // uncomment these if you need TeX support
     // math: {
     //   // install katex before enabling it
