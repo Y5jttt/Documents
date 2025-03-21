@@ -7,8 +7,9 @@ icon: fxemoji:bluebook
 ```markmap
 ---
 markmap:
-  colorFreezeLevel: 3
+  colorFreezeLevel: 8
   maxwidth: 30
+  initialExpandLevel: 3
 ---
 
 # **机器手册**
