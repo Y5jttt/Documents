@@ -26,7 +26,7 @@ icon: fxemoji:bluebook
       </th>
     </tr>
 <!----------------------------------主世界------------------------------------>
-  <th colspan=8;bgcolor="yellow">主世界</th>
+  <th colspan=8>主世界</th>
 <!--发光地衣农场、可可豆机、海泡菜机、小型种植机-->
     <tr>
       <td align="center"><pre>发光地衣农场<br>可可豆机<br>海泡菜机<br>小型种植机</pre>
@@ -105,7 +105,7 @@ icon: fxemoji:bluebook
       <td align="center">&nbsp;<img src="https://npucraft-lsky-1304448012.cos.ap-chengdu.myqcloud.com/2025/03/21/67dcc8c9c50c4.png" />&nbsp;
     </tr>
 <!----------------------------------下界------------------------------------>
-  <th colspan=8;bgcolor="yellow">下界</th>
+  <th colspan=8>下界</th>
 <!--128猪灵交易塔-->
     <tr>
       <td align="center"><pre>128猪灵交易塔</pre>
@@ -206,7 +206,7 @@ icon: fxemoji:bluebook
       <td align="center">&nbsp;<img src="https://npucraft-lsky-1304448012.cos.ap-chengdu.myqcloud.com/2025/03/21/67dcc8c9c50c4.png" />&nbsp;
     </tr>
   <!----------------------------------末地------------------------------------>
-    <th colspan=8;bgcolor="yellow">末地</th>
+    <th colspan=8>末地</th>
   <!--6核刷铁机-->
     <tr>
       <td align="center"><pre>6核刷铁机</pre>
@@ -351,7 +351,7 @@ icon: fxemoji:bluebook
       <td align="center">&nbsp;<img src="https://npucraft-lsky-1304448012.cos.ap-chengdu.myqcloud.com/2025/03/21/67dcc8c9c50c4.png" />&nbsp;
     </tr>
 <!----------------------------------双维度------------------------------------>
-    <th colspan=8;bgcolor="yellow">双维度</th>
+    <th colspan=8>双维度</th>
   <!--船吸刷怪塔-->
     <tr>
       <td align="center"><pre>船吸刷怪塔(双维度挂机)</pre>
