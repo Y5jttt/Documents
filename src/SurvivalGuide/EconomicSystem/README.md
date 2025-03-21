@@ -3,7 +3,7 @@ title: 经济系统
 icon: noto:bank
 author: SUPER2FH
 date: 2025-03-20
-prev: ../ServerIntroduction/Survival-Resource
+prev: ../SurvivalServer/Survival-Resource
 next: ./MakeMoney
 tag:
   - Survival-Main

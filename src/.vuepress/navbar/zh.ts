@@ -9,14 +9,14 @@ export const zhNavbar = navbar([
     icon: "noto:light-bulb",
     prefix: "/SurvivalGuide/",
     children: [
-      "ServerIntroduction/",
+      "SurvivalServer/",
       "EconomicSystem/",
       "Support/",
     ],
   },
-  "/MachineInstructions/",
-  "/PluginInstructions/",
-
+  "/MachineInstruction/",
+  "/PluginIntroduction/",
+  "/ServerIntroduction/",
 
   "/PlayerProfiles/",
 

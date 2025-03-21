@@ -17,8 +17,8 @@ export const zhSidebar = sidebar({
         {
             text: "生存服介绍",
             icon: "material-icon-theme:minecraft",
-            link: "/SurvivalGuide/ServerIntroduction/",
-            prefix: "/SurvivalGuide/ServerIntroduction/",
+            link: "/SurvivalGuide/SurvivalServer/",
+            prefix: "/SurvivalGuide/SurvivalServer/",
             collapsible: false,
             expanded: true,
             children: [
@@ -54,6 +54,7 @@ export const zhSidebar = sidebar({
         },
     ],
 
-    "/PluginInstructions/": "structure",
+    "/PluginIntroduction/": "structure",
+    "/ServerIntroduction/": "structure",
 
 });
