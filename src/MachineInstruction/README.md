@@ -6,9 +6,9 @@ icon: fxemoji:bluebook
 <table>
   <tbody>
     <tr>
-      <th align="center">机器名称
+      <th align="center">名称
       </th>
-      <th align="center">功能描述
+      <th align="center">描述
       </th>
       <th align="center">使用指南
       </th>
@@ -36,7 +36,7 @@ icon: fxemoji:bluebook
       <td align="center"><pre>sanae</pre></td>
       <td align="center"><pre>不详</pre></td>
       <td align="center"><pre>sanae</pre></td>
-      <td align="center">&nbsp;<img src="https://npucraft-lsky-1304448012.cos.ap-chengdu.myqcloud.com/2025/03/21/67dd19003b817.png" />&nbsp</td>
+      <td align="center">&nbsp;<img src="https://npucraft-lsky-1304448012.cos.ap-chengdu.myqcloud.com/2025/03/21/67dd19003b817.png" height="80"/>&nbsp</td>
     </tr>
   </tbody>
 </table>
