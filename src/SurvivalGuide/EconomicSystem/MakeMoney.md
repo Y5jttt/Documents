@@ -4,6 +4,9 @@ icon: twemoji:money-mouth-face
 author: SUPER2FH
 date: 2025-03-20
 prev: ./
+tag:
+  - Survival-Main
+  - Survival-Industry
 ---
 
 

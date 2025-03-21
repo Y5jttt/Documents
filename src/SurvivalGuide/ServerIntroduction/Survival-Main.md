@@ -2,6 +2,8 @@
 title: 主服
 icon: fluent-emoji-flat:houses
 prev: ./
+tag:
+  - Survival-Main
 ---
 
 ## **规划区域限制**

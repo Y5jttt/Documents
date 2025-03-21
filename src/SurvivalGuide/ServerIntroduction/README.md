@@ -2,6 +2,10 @@
 title: 生存服介绍
 icon: material-icon-theme:minecraft
 next: ./Survival-Main
+tag:
+  - Survival-Main
+  - Survival-Industry
+  - Survival-Resource
 ---
 
 生存服采用三世界协同架构，通过功能分层构建完整的生存生态。
