@@ -56,5 +56,6 @@ export const zhSidebar = sidebar({
 
     "/PluginIntroduction/": "structure",
     "/ServerIntroduction/": "structure",
+    "/Chronicle/": "structure",
 
 });

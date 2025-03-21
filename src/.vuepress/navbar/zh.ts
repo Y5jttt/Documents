@@ -19,6 +19,7 @@ export const zhNavbar = navbar([
   "/ServerIntroduction/",
 
   "/PlayerProfiles/",
+  "/Chronicle/",
 
   // {
   //   text: "NPUskin",
