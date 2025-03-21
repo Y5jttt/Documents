@@ -6,9 +6,9 @@ icon: fxemoji:bluebook
 <table>
   <tbody>
     <tr>
-      <th align="center">名称
+      <th align="center">机器名称
       </th>
-      <th align="center">描述
+      <th align="center">功能描述
       </th>
       <th align="center">使用指南
       </th>
@@ -36,7 +36,29 @@ icon: fxemoji:bluebook
       <td align="center"><pre>sanae</pre></td>
       <td align="center"><pre>不详</pre></td>
       <td align="center"><pre>sanae</pre></td>
-      <td align="center">&nbsp;<img src="https://npucraft-lsky-1304448012.cos.ap-chengdu.myqcloud.com/2025/03/21/67dd19003b817.png" height="80"/>&nbsp</td>
+      <td align="center">&nbsp;<img src="https://npucraft-lsky-1304448012.cos.ap-chengdu.myqcloud.com/2025/03/21/67dd19003b817.png" width="100"/>&nbsp;</td>
+    </tr>
+<!--龟壳机+钓鱼机-->
+    <tr>
+      <td align="center"><pre>龟壳机+钓鱼机</pre></td>
+      <td align="center"><pre>刷海龟壳、海龟蛋等<br>神龟药水的原材料</pre></td>
+      <td align="center"><pre>&nbsp;&nbsp;</pre></td>
+      <td align="center"><pre>主世界<br>(-30,519)</pre></td>
+      <td align="center"><pre>friedPARROT<br>panbaiyuan</pre></td>
+      <td align="center"><pre>2022/05/22</pre></td>
+      <td align="center"><pre>不详</pre></td>
+      <td align="center">&nbsp;<img src="https://npucraft-lsky-1304448012.cos.ap-chengdu.myqcloud.com/2025/03/21/67dd1e904c734.png" width="100" />&nbsp;</td>
+    </tr>
+<!--潜影贝农场-->
+    <tr>
+      <td align="center"><pre>潜影贝农场</pre></td>
+      <td align="center"><pre></pre></td>
+      <td align="center"><pre>&nbsp;&nbsp;</pre></td>
+      <td align="center"><pre>主世界<br>(266,949)</pre></td>
+      <td align="center"><pre>不详</pre></td>
+      <td align="center"><pre>&nbsp;&nbsp;</pre></td>
+      <td align="center"><pre>&nbsp;</pre></td>
+      <td align="center">&nbsp;<img src="https://npucraft-lsky-1304448012.cos.ap-chengdu.myqcloud.com/2025/03/21/67dcc8c9c50c4.png" width="100"/>&nbsp;</td>
     </tr>
   </tbody>
 </table>
