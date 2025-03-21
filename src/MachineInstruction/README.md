@@ -3,34 +3,29 @@ title: 机器手册
 icon: fxemoji:bluebook
 ---
 生存服机器手册
-<table>
-  <tbody>
-    <tr>
-      <th align="center">机器名称
-      </th>
-      <th align="center">功能描述
-      </th>
-      <th align="center">使用指南
-      </th>
-      <th align="center">坐标(X,Z)
-      </th>
-      <th align="center">建造者及<br>建造时间
-      </th>
-      <th align="center">&nbsp;图片&nbsp;
-      </th>
-    </tr>
-<!--主世界-->
-  <tr>
-    <th colspan=8>主世界</th>
-  </tr>
-<!--发光地衣农场、可可豆机、海泡菜机、小型种植机-->
-    <tr>
-      <td align="center"><p>发光地衣农场</p><p>可可豆机</p><p>海泡菜机</p><p>小型种植机</p></td>
-      <td align="center"><pre>AFK种植各种作物</pre></td>
-      <td align="center"><pre>&nbsp;</pre></td>
-      <td align="center"><pre>主世界<br>(121,516)</pre></td>
-      <td align="center"><pre>sanae<br>不详</pre></td>
-      <td align="center">&nbsp;<img src="https://npucraft-lsky-1304448012.cos.ap-chengdu.myqcloud.com/2025/03/21/67dd19003b817.png" width="100"/>&nbsp;</td>
-    </tr>
-  </tbody>
-</table>
+
+```markmap
+---
+markmap:
+  colorFreezeLevel: 3
+---
+
+# 机器手册
+
+## **主世界**
+-发光地衣农场、可可豆机、海泡菜机、小型种植机
+  -【机器描述】：各种小型AFK机器
+  -【使用指南】：
+  -【建造时间&建造者】：建筑时间不详；sanae
+  -【图片】：![发光地衣机等.png](https://npucraft-lsky-1304448012.cos.ap-chengdu.myqcloud.com/2025/03/21/67dd19003b817.png)
+
+-龟壳机+钓鱼机
+  -【机器描述】：刷龟壳和龟蛋，可用于制作神龟药水等
+  -【使用指南】：
+  -【建造时间&建造者】：2022/05/22；friedPARROT&panbaiyuan
+  -【图片】：![海龟机.png](https://npucraft-lsky-1304448012.cos.ap-chengdu.myqcloud.com/2025/03/21/67dd1e904c734.png)
+## **下界**
+
+## **末地**
+
+```
