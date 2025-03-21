@@ -1,7 +1,7 @@
 ---
 title: 岁月成诗
 shortTitle: 编年史
-icon: fxemoji:bluebook
+icon: twemoji:books
 index: false
 author: 
   - ARKsealin

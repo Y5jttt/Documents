@@ -1,7 +1,7 @@
 ---
 title: 第四周目
-icon: fxemoji:bluebook
-order: 4
+icon: emojione:digit-four
+order: 40
 ---
 
 

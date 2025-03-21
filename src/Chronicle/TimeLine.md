@@ -1,7 +1,7 @@
 ---
 title: 正传
-icon: fxemoji:bluebook
-order: 1
+icon: fxemoji:bookmarktab
+order: 10
 prev: ./
 ---
 

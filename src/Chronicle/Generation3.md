@@ -1,7 +1,7 @@
 ---
 title: 第三周目
-icon: fxemoji:bluebook
-order: 3
+icon: emojione:digit-three
+order: 30
 ---
 
 
