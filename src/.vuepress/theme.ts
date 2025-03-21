@@ -5,13 +5,13 @@ import { zhSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
   hostname: "https://docs.npucraft.com",
-  favicon: "https://npucraft-lsky-1304448012.cos.ap-chengdu.myqcloud.com/2025/03/12/67d182f1dbbf4.png",
+  favicon: "NPUcraftLogo.png",
   author: {
     name: "NPUcraft",
     url: "https://docs.npucraft.com",
   },
 
-  logo: "https://npucraft-lsky-1304448012.cos.ap-chengdu.myqcloud.com/2025/03/12/67d182f1dbbf4.png",
+  logo: "NPUcraftLogo.png",
 
   repo: "NPUcraft/Documents",
 
