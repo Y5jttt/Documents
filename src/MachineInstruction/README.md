@@ -12,24 +12,22 @@ icon: fxemoji:bluebook
       </th>
       <th align="center">使用指南
       </th>
-      <th align="center">坐标（X,Z)
+      <th align="center">坐标(X,Z)
       </th>
-      <th align="center">建造者
+      <th align="center">建造者及<br>建造时间
       </th>
       <th align="center">建造时间
-      </th>
-      <th align="center">维护者
       </th>
       <th align="center">&nbsp;图片&nbsp;
       </th>
     </tr>
 <!--主世界-->
   <tr>
-    <th colspan=8>主世界</th>
+    <th colspan=8;bgcolor="yellow">主世界</th>
   </tr>
 <!--发光地衣农场、可可豆机、海泡菜机、小型种植机-->
     <tr>
-      <td align="center"><pre>发光地衣农场<br>可可豆机<br>海泡菜机<br>小型种植机</pre></td>
+      <td align="center"><p>发光地衣农场<br>可可豆机<br>海泡菜机<br>小型种植机</p></td>
       <td align="center"><pre>AFK种植各种作物</pre></td>
       <td align="center"><pre>&nbsp;</pre></td>
       <td align="center"><pre>主世界<br>(121,516)</pre></td>
