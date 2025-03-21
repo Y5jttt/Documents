@@ -84,7 +84,6 @@ export default hopeTheme({
     tasklist: true,
     vPre: true,
     markmap: true,
-
     // uncomment these if you need TeX support
     // math: {
     //   // install katex before enabling it
@@ -116,9 +115,9 @@ export default hopeTheme({
     // sandpack: true,
 
     // install @vuepress/plugin-revealjs and uncomment these if you need slides
-    // revealjs: {
-    //   plugins: ["highlight", "math", "search", "notes", "zoom"],
-    // },
+    revealjs: {
+      plugins: ["highlight", "math", "search", "notes", "zoom"],
+    },
   },
 
   plugins: {
