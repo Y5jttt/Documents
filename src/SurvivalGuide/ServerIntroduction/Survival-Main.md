@@ -4,6 +4,8 @@ icon: fluent-emoji-flat:houses
 prev: ./
 tag:
   - Survival-Main
+category:
+  - GroupServer
 ---
 
 ## **规划区域限制**
