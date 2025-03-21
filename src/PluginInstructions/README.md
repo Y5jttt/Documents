@@ -1,7 +1,7 @@
 ---
 title: 插件介绍
 icon: vscode-icons:folder-type-minecraft-opened
-
+index: false
 ---
 
 
