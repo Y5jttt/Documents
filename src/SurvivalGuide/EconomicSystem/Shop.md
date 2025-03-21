@@ -3,6 +3,7 @@ title: 商店
 icon: icon-park:shopping
 author: SUPER2FH
 date: 2025-03-20
+next: ../Support/
 ---
 
 

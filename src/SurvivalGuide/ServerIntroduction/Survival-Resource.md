@@ -1,6 +1,7 @@
 ---
 title: 资源服
 icon: emojione:mountain
+next: ../EconomicSystem/
 ---
 
 
