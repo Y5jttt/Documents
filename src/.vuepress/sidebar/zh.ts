@@ -54,4 +54,6 @@ export const zhSidebar = sidebar({
         },
     ],
 
+    "/PluginInstructions/": "structure",
+
 });
