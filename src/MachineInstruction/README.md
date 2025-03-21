@@ -36,7 +36,7 @@ icon: fxemoji:bluebook
       <td align="center"><pre>sanae</pre></td>
       <td align="center"><pre>不详</pre></td>
       <td align="center"><pre>sanae</pre></td>
-      <td align="center">&nbsp;<img src="https://npucraft-lsky-1304448012.cos.ap-chengdu.myqcloud.com/2025/03/21/67dd19003b817.png" />&nbsp;
+      <td align="center">&nbsp;<img src="https://npucraft-lsky-1304448012.cos.ap-chengdu.myqcloud.com/2025/03/21/67dd19003b817.png" />&nbsp</td>
     </tr>
   </tbody>
 </table>
