@@ -74,3 +74,18 @@ order: 40
 - ⚖️ **完全共产主义**
   🧰 生产资料公有化 | 🎁 按需分配制度
 
+## 🎥 宣传视频
+
+<BiliBili bvid="BV1SK4y1f7o4" />
+
+<BiliBili bvid="BV19y4y137VB" />
+
+<BiliBili bvid="BV1WA411c7fp" />
+
+<BiliBili bvid="BV1AA411w7SV" />
+
+<BiliBili bvid="BV1yK4y1N77q" />
+
+<BiliBili bvid="BV1F44y1h72v" />
+
+

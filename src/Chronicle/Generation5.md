@@ -182,3 +182,9 @@ order: 50
 **2024.05.05** 
 
 - `mc_bookman`开通海豚交通试验线 🌊 主城↔主城南（海豚加速100m/s+）
+
+## 🎥 宣传视频
+
+<BiliBili bvid="BV1T1eHeHEs5" />
+
+<BiliBili bvid="BV1cKe4eWEgS" />

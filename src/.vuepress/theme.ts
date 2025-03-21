@@ -146,7 +146,11 @@ export default hopeTheme({
       indexName: "npucraft",
       placeholder: "搜索"
     },
-
+    components: {
+      components: [
+        "BiliBili",
+      ],
+    },
 
     // search: true,
     // Install @vuepress/plugin-pwa and uncomment these if you want a PWA
