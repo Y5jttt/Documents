@@ -2,8 +2,8 @@
 home: true
 icon: flat-color-icons:home
 title: 主页
-heroImage: https://npucraft-lsky-1304448012.cos.ap-chengdu.myqcloud.com/2025/03/12/67d182f1dbbf4.png
-bgImage: https://npucraft-lsky-1304448012.cos.ap-chengdu.myqcloud.com/2025/03/12/67d18ed71d92e.png
+heroImage: "NPUcraftLogo.png"
+bgImage: https://npucraft-lsky-1304448012.cos.ap-chengdu.myqcloud.com/2025/03/21/67dd4c37931a4.jpg
 bgImageDark: https://npucraft-lsky-1304448012.cos.ap-chengdu.myqcloud.com/2025/03/12/67d18f67e19fd.png
 bgImageStyle:
   background-attachment: fixed
