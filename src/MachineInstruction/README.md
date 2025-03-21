@@ -19,7 +19,6 @@ icon: fxemoji:bluebook
       </th>
       <th align="center">建造时间
       </th>
-      </th>
       <th align="center">维护者
       </th>
       <th align="center">&nbsp;图片&nbsp;
