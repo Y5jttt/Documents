@@ -30,24 +30,24 @@ icon: fxemoji:bluebook
 <!--发光地衣农场、可可豆机、海泡菜机、小型种植机-->
     <tr>
       <td align="center"><pre>发光地衣农场<br>可可豆机<br>海泡菜机<br>小型种植机</pre>
+      <td align="center"><pre>AFK种植各种作物</pre>
       <td align="center"><pre></pre>
-      <td align="center"><pre>&nbsp;&nbsp;</pre>
       <td align="center"><pre>主世界<br>(121,516)</pre>
+      <td align="center"><pre>sanae</pre>
       <td align="center"><pre>不详</pre>
-      <td align="center"><pre>&nbsp;&nbsp;</pre>
-      <td align="center"><pre>&nbsp;</pre>
+      <td align="center"><pre>sanae</pre>
       <td align="center">&nbsp;<img src="https://npucraft-lsky-1304448012.cos.ap-chengdu.myqcloud.com/2025/03/21/67dd19003b817.png" />&nbsp;
     </tr>
 <!--龟壳机+钓鱼机-->
     <tr>
       <td align="center"><pre>龟壳机+钓鱼机</pre>
-      <td align="center"><pre></pre>
+      <td align="center"><pre>刷海龟壳、海龟蛋等<br>神龟药水的原材料</pre>
       <td align="center"><pre>&nbsp;&nbsp;</pre>
       <td align="center"><pre>主世界<br>(-30,519)</pre>
       <td align="center"><pre>不详</pre>
       <td align="center"><pre>&nbsp;&nbsp;</pre>
       <td align="center"><pre>&nbsp;</pre>
-      <td align="center">&nbsp;<img src="https://npucraft-lsky-1304448012.cos.ap-chengdu.myqcloud.com/2025/03/21/67dcc8c9c50c4.png" />&nbsp;
+      <td align="center">&nbsp;<img src="https://npucraft-lsky-1304448012.cos.ap-chengdu.myqcloud.com/2025/03/21/67dd1e904c734.png" alt="海龟机.png" title="海龟机.png" />&nbsp;
     </tr>
 <!--潜影贝农场-->
     <tr>
