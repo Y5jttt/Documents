@@ -2,7 +2,6 @@
 title: 机器手册
 icon: fxemoji:bluebook
 ---
-
 生存服机器手册
 <table>
   <tbody>
@@ -24,7 +23,7 @@ icon: fxemoji:bluebook
       <th align="center">&nbsp;图片&nbsp;
       </th>
     </tr>
-<!----------------------------------主世界------------------------------------>
+<!--主世界-->
   <tr>
     <th colspan=8>主世界</th>
   </tr>
