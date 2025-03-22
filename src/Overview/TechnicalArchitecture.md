@@ -9,7 +9,7 @@ date: 2025-03-11
 
 ## 架构图
 
-![NPUcraft技术架构](https://npucraft-lsky-1304448012.cos.ap-chengdu.myqcloud.com/2025/03/22/67de813172acc.jpg)
+![NPUcraft技术架构](https://npucraft-lsky-1304448012.cos.ap-chengdu.myqcloud.com/2025/03/22/67de8680eef71.jpg)
 
 
 ## **[群组服数据面板](https://plan.npucraft.com)**

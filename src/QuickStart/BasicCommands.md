@@ -22,6 +22,6 @@ date: 2025-03-20
 
 
 
-::: tip 更多指令请查阅[《插件介绍》](/PluginInstructions/)
+::: tip 更多指令请查阅[《插件介绍》](/PluginIntroduction/)
 
 :::
