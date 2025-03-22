@@ -62,6 +62,11 @@ highlights:
         icon: emojione:world-map
         details: ''
         link: https://map.npucraft.com
+        
+      - title: NPUcraft维基百科
+        icon: vscode-icons:file-type-mediawiki
+        details: ''
+        link: https://wiki.npucraft.com
 
       - title: 服务器数据面板
         icon: fluent-color:data-area-32
@@ -73,7 +78,7 @@ highlights:
         details: ''
         link: https://lsky.npucraft.com
         
-      - title: MCSM面板[管理专用]
+      - title: MCSM面板[管理员]
         icon: arcticons:minecraft-command
         details: ''
         link: http://mcsm.npucraft.com
