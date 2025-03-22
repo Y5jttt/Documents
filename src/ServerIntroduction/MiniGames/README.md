@@ -6,7 +6,7 @@ author: Frezz
 dir:
   collapsible: false
   link: true
-  order: 1
+  order: 40
 ---
 
 ::: tip 始终秉持「**创意无限·快乐共享**」的宗旨，持续推出新颖有趣的小游戏模块！
