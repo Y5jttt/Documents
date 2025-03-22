@@ -13,10 +13,7 @@ prev: ./
 - **2013年**
 
   - Ruby在三航四方BBS争取服务器资源
-
-  -  由OLorz、Evalyn技术支撑，诞生首个MC服务器
-
-     ![幻灯片3]
+  - 由OLorz、Evalyn技术支撑，诞生首个MC服务器
 
 - **2016上半年**
   -  因玩家流失，服务器进入休眠期
@@ -27,7 +24,9 @@ prev: ./
 ### Chapter 1：文明火种重燃
 - **2016年**
   - 复用BBS资源重启服务器，Ruby继任服主
-    ![幻灯片3]
+  
+  ![Ruby，Evalyn与OLOrz建服](https://npucraft-lsky-1304448012.cos.ap-chengdu.myqcloud.com/2025/03/22/67de8b29d7feb.jpg)
+  
 - **2018年初**
   - 因BBS管理权变更被迫关停
 
@@ -38,7 +37,7 @@ prev: ./
 
   - 玩家决议重置存档
 
-    ![幻灯片4]
+    ![PrettyReol建立西工大历史上第二个正式服务器](https://npucraft-lsky-1304448012.cos.ap-chengdu.myqcloud.com/2025/03/22/67de8c818af90.jpg)
 
 - **2018年6月**
 
@@ -49,7 +48,7 @@ prev: ./
 
   -  Dai_Mao以VPS延续服务器生命
 
-    ![幻灯片5]
+    ![呆毛拯救世界](https://npucraft-lsky-1304448012.cos.ap-chengdu.myqcloud.com/2025/03/22/67de8c8236539.jpg)
 
 ---
 
@@ -62,17 +61,19 @@ prev: ./
 
   - 服务器重返三航四方平台
 
-    ![幻灯片6]
+    ![时隔三年，重回三航四方](https://npucraft-lsky-1304448012.cos.ap-chengdu.myqcloud.com/2025/03/22/67de8c82c31d8.jpg)
 
 - **建设成就**
 
   - 宏伟主城与铃鹿区建成
 
   - 举办花火大会等经典活动
+  
+  <BiliBili bvid="BV1k7411n7SL" />
 
-    ![幻灯片9]
+    ![第三周目主城](https://npucraft-lsky-1304448012.cos.ap-chengdu.myqcloud.com/2025/03/22/67de8c83bcf21.jpg)
 
-    ![幻灯片10]
+    ![第三周目铃鹿区](https://npucraft-lsky-1304448012.cos.ap-chengdu.myqcloud.com/2025/03/22/67de8c8328d0b.jpg)
 
 - **2020年4月**
 
