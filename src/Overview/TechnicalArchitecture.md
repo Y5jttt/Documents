@@ -6,14 +6,13 @@ date: 2025-03-11
 ---
 
 
-【图】
 
-1.群组服
+## 架构图
 
-2.网络
+![NPUcraft技术架构](https://npucraft-lsky-1304448012.cos.ap-chengdu.myqcloud.com/2025/03/22/67de813172acc.jpg)
 
 
-## **[数据面板](https://plan.npucraft.com)**
+## **[群组服数据面板](https://plan.npucraft.com)**
 <iframe
 src="https://plan.npucraft.com"
 width="100%"
