@@ -1,1 +1,9 @@
 // place your custom styles here
+
+.markmap-wrapper {
+  .markmap-svg {
+    width: 100%;
+    min-height: 720px;
+    color: var(--vp-c-text);
+  }
+}
