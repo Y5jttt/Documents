@@ -86,19 +86,19 @@ prev: ./
 
   - 小鹿以个人设备接任服主
 
-     ![幻灯片7]
+     ![xiaoxiaolu凭借自己的资源与技术担任服主](https://cos.npucraft.com/2025/03/23/67df918a78f32.jpg)
 
   - 一月内实现服内共产主义
 
-    ![幻灯片12]
+    ![第四周目主城](https://cos.npucraft.com/2025/03/23/67df9187f20c0.jpg)
 
 - **2020年09月**
 
   - NPUcraft社团正式成立
 
-  - 启动西工大复原工程
+  - 启动[西工大复原工程](../ServerIntroduction/BuildTheWordForNPU)
 
-    ![幻灯片14]
+    ![西工大复原工程](https://cos.npucraft.com/2025/03/23/67df9189debf1.jpg)
 
 - **2020年12月**
 
