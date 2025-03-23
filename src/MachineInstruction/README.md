@@ -9,7 +9,7 @@ icon: fxemoji:bluebook
 markmap:
   colorFreezeLevel: 3
   maxwidth: 40
-  initialExpandLevel: 2
+  initialExpandLevel: 3
 ---
 
 # **机器手册**
