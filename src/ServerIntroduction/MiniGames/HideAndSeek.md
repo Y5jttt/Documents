@@ -1,7 +1,7 @@
 ---
 title: HideAndSeek
 shortTitle: 方块躲猫猫
-icon: https://npucraft-lsky-1304448012.cos.ap-chengdu.myqcloud.com/2025/03/21/67dd11feb7ca7.jpg
+icon: https://cos.npucraft.com/2025/03/21/67dd11feb7ca7.jpg
 author: Frezz
 category:
   - GroupServer
@@ -33,18 +33,18 @@ category:
 ## 🗺️ **场景一览**  
 @slidestart
 
-![HideAndSeek-1.png](https://npucraft-lsky-1304448012.cos.ap-chengdu.myqcloud.com/2025/03/21/67dd3de4bb4dc.png)
+![HideAndSeek-1.png](https://cos.npucraft.com/2025/03/21/67dd3de4bb4dc.png)
 
 ---
 
-![HideAndSeek-2.png](https://npucraft-lsky-1304448012.cos.ap-chengdu.myqcloud.com/2025/03/21/67dd3de4a47f3.png)
+![HideAndSeek-2.png](https://cos.npucraft.com/2025/03/21/67dd3de4a47f3.png)
 
 ---
 
-![HideAndSeek-3.png](https://npucraft-lsky-1304448012.cos.ap-chengdu.myqcloud.com/2025/03/21/67dd3de4e1bda.png)
+![HideAndSeek-3.png](https://cos.npucraft.com/2025/03/21/67dd3de4e1bda.png)
 
 ---
 
-![HideAndSeek-4.png](https://npucraft-lsky-1304448012.cos.ap-chengdu.myqcloud.com/2025/03/21/67dd3edd9eb9b.png)
+![HideAndSeek-4.png](https://cos.npucraft.com/2025/03/21/67dd3edd9eb9b.png)
 
 @slideend

@@ -1,6 +1,6 @@
 ---
 title: Dynmap
-icon: https://npucraft-lsky-1304448012.cos.ap-chengdu.myqcloud.com/2025/03/21/67dcfaab77d93.png
+icon: https://cos.npucraft.com/2025/03/21/67dcfaab77d93.png
 author: SUPER2FH
 category:
   - BasePlugin

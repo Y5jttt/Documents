@@ -1,6 +1,6 @@
 ---
 title: Gist
-icon: https://npucraft-lsky-1304448012.cos.ap-chengdu.myqcloud.com/2025/03/21/67dd0582cdf55.jpg
+icon: https://cos.npucraft.com/2025/03/21/67dd0582cdf55.jpg
 author: SUPER2FH
 category:
   - FunctionalPlugin

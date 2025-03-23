@@ -3,8 +3,8 @@ home: true
 icon: flat-color-icons:home
 title: 主页
 heroImage: "NPUcraftLogo.png"
-bgImage: https://npucraft-lsky-1304448012.cos.ap-chengdu.myqcloud.com/2025/03/21/67dd4c37931a4.jpg
-bgImageDark: https://npucraft-lsky-1304448012.cos.ap-chengdu.myqcloud.com/2025/03/12/67d18f67e19fd.png
+bgImage: https://cos.npucraft.com/2025/03/21/67dd4c37931a4.jpg
+bgImageDark: https://cos.npucraft.com/2025/03/12/67d18f67e19fd.png
 bgImageStyle:
   background-attachment: fixed
 heroText: NPUcraft，有你所想

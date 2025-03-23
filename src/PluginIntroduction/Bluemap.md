@@ -1,6 +1,6 @@
 ---
 title: Bluemap
-icon: https://npucraft-lsky-1304448012.cos.ap-chengdu.myqcloud.com/2025/03/21/67dcfe13d3133.ico
+icon: https://cos.npucraft.com/2025/03/21/67dcfe13d3133.ico
 author: SUPER2FH
 category:
   - BasePlugin

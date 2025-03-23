@@ -1,6 +1,6 @@
 ---
 title: CoreProtect
-icon: https://npucraft-lsky-1304448012.cos.ap-chengdu.myqcloud.com/2025/03/21/67dd02781cfa8.jpg
+icon: https://cos.npucraft.com/2025/03/21/67dd02781cfa8.jpg
 author: SUPER2FH
 category:
   - BasePlugin

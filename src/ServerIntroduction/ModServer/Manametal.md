@@ -1,7 +1,7 @@
 ---
 title: Manametal
 shortTitle: 魔法金属
-icon: https://npucraft-lsky-1304448012.cos.ap-chengdu.myqcloud.com/2025/03/21/67dd13841a31b.png
+icon: https://cos.npucraft.com/2025/03/21/67dd13841a31b.png
 author: Hui_Xun
 category:
   - StandAloneServer
