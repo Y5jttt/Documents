@@ -1,6 +1,6 @@
 ---
 title: SUPER2FH
-icon: https://skin.npucraft.com/avatar/763?size=36
+icon: https://skin.npucraft.com/avatar/763
 author: SUPER2FH
 ---
 

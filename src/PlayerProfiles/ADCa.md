@@ -1,6 +1,6 @@
 ---
 title: ADCa
-icon: arcticons:minecraft-steve
+icon: https://skin.npucraft.com/avatar/1030
 author: ADCa
 date: 2025-03-23
 prev: ./
