@@ -58,4 +58,6 @@ export const zhSidebar = sidebar({
     "/ServerIntroduction/": "structure",
     "/Chronicle/": "structure",
 
+    "/PlayerProfiles/": "structure",
+
 });
