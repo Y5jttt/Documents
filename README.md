@@ -58,33 +58,33 @@ npm run docs:dev
 推荐使用：[WebStorm](https://www.jetbrains.com/webstorm/)
 
 ### 1. Fork仓库到个人账户
-1. **访问目标仓库**
+- **访问目标仓库**
    登录GitHub，找到需要贡献的仓库（如`https://github.com/org/project`），点击右上角 **Fork** 按钮。
 
-2. **选择目标位置**
+- **选择目标位置**
    在弹出的界面中选择个人GitHub账号作为Fork目标，系统将自动创建副本仓库（如`https://github.com/your-username/project`）。
 
 ---
 
 ### 2. 本地开发环境配置
-1. **克隆仓库到本地**
-   
+- **克隆仓库到本地**
+
    ```bash
    git clone https://github.com/your-username/project.git
    cd project
    ```
-   
-2. **添加上游仓库关联**
+
+- **添加上游仓库关联**
    添加原始仓库为远程源，便于同步更新：
-   
+
    ```bash
    git remote add upstream https://github.com/org/project.git
    git remote -v  # 验证远程仓库配置
    ```
-   
-3. **创建开发分支**
+
+- **创建开发分支**
    避免污染主分支，使用语义化分支命名：
-   
+
    ```bash
    git checkout -b feat/add-new-feature  # 示例分支名
    ```
@@ -117,11 +117,12 @@ npm run docs:dev
 ---
 
 ### 4. 推送代码到远程仓库
-1. **强制推送分支**  
+- **强制推送分支**  
+
    ```bash
    git push -u origin feat/add-new-feature --force  # 首次推送需建立追踪
    ```
-   • 若遇到冲突，解决后使用`--force`覆盖远程分支
+   若遇到冲突，解决后使用`--force`覆盖远程分支
 
 ---
 
@@ -152,7 +153,7 @@ npm run docs:dev
      - [x] 本地单元测试通过
      - [ ] 集成测试待验证
      ```
-   • 引用相关Issue：使用`Closes #123`或`Fixes #456`语法
+   ​	引用相关Issue：使用`Closes #123`或`Fixes #456`语法
 
 ---
 
