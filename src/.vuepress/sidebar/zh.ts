@@ -19,8 +19,8 @@ export const zhSidebar = sidebar({
       "dipi",
       "IMUcraftCampus",
       "Survival",
-      "ziyuan"
-      "Zhucheng"，
+      "ziyuan",
+      "Zhucheng",
     ],
 
     "/PlayerProfiles/": "structure",
