@@ -1,9 +1,8 @@
 ---
 title: IMUcraftCampus
 shortTitle: 复原工程
-icon: https://cos.npucraft.com/2025/03/12/67d182f1dbbf4.png
-category:
-  - StandAloneServer
+icon: https://zh.minecraft.wiki/images/thumb/Netherite_Pickaxe_JE3_BE2.png/150px-Netherite_Pickaxe_JE3_BE2.png
+author: Ysjttt
 
 order: 1
 ---

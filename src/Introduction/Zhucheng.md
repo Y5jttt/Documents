@@ -2,8 +2,7 @@
 title: 主城
 shortTitle: 主城
 icon: https://cos.npucraft.com/2025/03/12/67d182f1dbbf4.png
-category:
-  - StandAloneServer
+author: Ysjttt
 
 order: 1
 ---

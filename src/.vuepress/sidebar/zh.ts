@@ -25,4 +25,11 @@ export const zhSidebar = sidebar({
 
     "/PlayerProfiles/": "structure",
 
+    "/Plugins/": [
+      "LiteSignin",
+      "Bank",
+      "Ultrashop",
+      "Lottery",
+    ],
+
 });
