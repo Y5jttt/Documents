@@ -23,7 +23,7 @@ export const zhSidebar = sidebar({
 
     "/Economy/": 
     [
-      "ComsumeMoney",
+      "ConsumeMoney",
       "GetMoney",
     ],
 
