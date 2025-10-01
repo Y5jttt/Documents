@@ -1,5 +1,5 @@
 ---
-title: Survival
+title: 生存世界
 shortTitle: 生存世界
 icon: https://cos.npucraft.com/2025/03/12/67d182f1dbbf4.png
 category:

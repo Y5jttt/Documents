@@ -1,5 +1,5 @@
 ---
-title: ziyuan
+title: 资源世界
 shortTitle: 资源世界
 icon: https://cos.npucraft.com/2025/03/12/67d182f1dbbf4.png
 category:
