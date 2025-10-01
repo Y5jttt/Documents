@@ -9,7 +9,7 @@ export default defineUserConfig({
   locales: {
     "/": {
       lang: "zh-CN",
-      title: "NPUcraft文档",
+      title: "IMUcraft文档",
       description: "",
     },
   },

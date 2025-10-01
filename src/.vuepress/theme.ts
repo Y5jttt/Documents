@@ -4,16 +4,16 @@ import { zhNavbar } from "./navbar/index.js";
 import { zhSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
-  hostname: "https://docs.npucraft.com",
-  favicon: "NPUcraftLogo.png",
+  hostname: "https://docs.imucraft.cn",
+  favicon: "IMUcraftLogo.png",
   author: {
-    name: "NPUcraft",
-    url: "https://docs.npucraft.com",
+    name: "IMUcraft",
+    url: "https://docs.imucraft.cn",
   },
 
-  logo: "NPUcraftLogo.png",
+  logo: "IMUcraftLogo.png",
 
-  repo: "NPUcraft/Documents",
+  repo: "Y5jttt/Documents",
 
   docsDir: "src",
 
@@ -27,7 +27,7 @@ export default hopeTheme({
       // sidebar
       sidebar: zhSidebar,
 
-      footer: "  使用 <a href=\"https://theme-hope.vuejs.press/zh/\" target=\"_blank\">VuePress Theme Hope</a> 主题 | MIT 协议, 版权所有 © 2025-至今 | \n  <a href=\"https://beian.miit.gov.cn/\" target=\"_blank\">蜀ICP备2020036244号-2</a> ",
+      footer: "  使用 <a href=\"https://theme-hope.vuejs.press/zh/\" target=\"_blank\">VuePress Theme Hope</a> 主题 | MIT 协议, 版权所有 © 2025-至今 | \n  <a href=\"https://beian.miit.gov.cn/\" target=\"_blank\">鲁ICP备2023015906号-1</a> ",
 
       displayFooter: true,
 
@@ -141,9 +141,9 @@ export default hopeTheme({
 
     // slimsearch: true,
     docsearch: {
-      appId: "OXA61NABVT",
-      apiKey: "f9b6bc5ee79d4474d0215e50ad56c99d",
-      indexName: "npucraft",
+      appId: "",
+      apiKey: "",
+      indexName: "imucraft",
       placeholder: "搜索"
     },
     components: {
