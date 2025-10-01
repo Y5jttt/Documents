@@ -3,8 +3,8 @@ home: true
 icon: flat-color-icons:home
 title: 主页
 heroImage: "IMUcraftLogo.png"
-bgImage: https://cos.npucraft.com/2025/03/23/67df98026d109.jpg
-bgImageDark: https://cos.npucraft.com/2025/03/12/67d18f67e19fd.png
+bgImage: https://lsky.imucraft.cn/i/2025/10/01/1zs5d2e5fv47s.png
+bgImageDark: https://lsky.imucraft.cn/i/2025/10/01/68dd0ea4ce31d.png
 bgImageStyle:
   background-attachment: fixed
 heroText: 欢迎来到IMUcraft文档站
@@ -19,9 +19,9 @@ highlights:
   - header: 我们的优势
     image: /assets/image/features.svg
 #    bgImage: https://theme-hope-assets.vuejs.press/bg/1-light.svg
-    bgImage: https://cos.npucraft.com/2025/03/23/67df98026d109.jpg
+    bgImage: https://lsky.imucraft.cn/i/2025/10/01/1zs5d2e5fv47s.png
 #    bgImageDark: https://theme-hope-assets.vuejs.press/bg/1-dark.svg
-    bgImageDark: https://cos.npucraft.com/2025/03/12/67d18f67e19fd.png
+    bgImageDark: https://lsky.imucraft.cn/i/2025/10/01/68dd0ea4ce31d.png
     features:
       - title: 历史悠久
         icon: openmoji:timer
@@ -39,9 +39,9 @@ highlights:
     description: ''
     image: /assets/image/blog.svg
 #    bgImage: https://theme-hope-assets.vuejs.press/bg/5-light.svg
-    bgImage: https://cos.npucraft.com/2025/03/23/67df98026d109.jpg
+    bgImage: https://lsky.imucraft.cn/i/2025/10/01/1zs5d2e5fv47s.png
 #    bgImageDark: https://theme-hope-assets.vuejs.press/bg/5-dark.svg
-    bgImageDark: https://cos.npucraft.com/2025/03/12/67d18f67e19fd.png
+    bgImageDark: https://lsky.imucraft.cn/i/2025/10/01/68dd0ea4ce31d.png
     highlights:
       - title: 群：758167802
         icon: cib:qq
@@ -51,9 +51,9 @@ highlights:
     description: ''
     image: /assets/image/layout.svg
 #    bgImage: https://theme-hope-assets.vuejs.press/bg/9-light.svg
-    bgImage: https://cos.npucraft.com/2025/03/23/67df98026d109.jpg
+    bgImage: https://lsky.imucraft.cn/i/2025/10/01/1zs5d2e5fv47s.png
 #    bgImageDark: https://theme-hope-assets.vuejs.press/bg/9-dark.svg
-    bgImageDark: https://cos.npucraft.com/2025/03/12/67d18f67e19fd.png    
+    bgImageDark: https://lsky.imucraft.cn/i/2025/10/01/68dd0ea4ce31d.png 
     highlights:
       - title: IMUcraft皮肤站
         icon: material-icon-theme:minecraft-fabric
@@ -70,7 +70,7 @@ highlights:
         details: ''
         link: https://plan.imucraft.cn
         
-      - title: NPUcraft图床
+      - title: IMUcraft图床
         icon: fluent-emoji-flat:framed-picture
         details: ''
         link: https://lsky.imucraft.cn

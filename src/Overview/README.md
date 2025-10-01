@@ -1,24 +1,24 @@
 ---
 title: 简介
 icon: icon-park:view-grid-detail
+author: Ysjttt
+next: ./AboutMUA
 ---
 
 
+**内蒙古大学似社非社Minecraft分部**是由Ysjttt创立的属于内蒙古大学的Minecraft社团，隶属于内蒙古大学似社非社。
 
-**西北工业大学MINECRAFT爱好者社区**的历史可追溯至2013年建立的校内首个学生服务器，历经八年积淀后于2020年9月17日正式注册为校级社团。作为全国高校体系内建制最完备、成员规模最大的MC社群之一，由西北工业大学学生Minecraft创作协会（校内唯一官方认证的Minecraft组织）统筹管理，依托西北工业大学群组服务器构建了属于NPUer的虚拟家园。社区秉持开放包容的理念，通过稳定的服务器保障体系、前沿的技术开发路线与科学的生态环境建设，打造出"社区-服务器-社团"三位一体的有机生态，形成涵盖管理制度、人才培养、核心技术在内的完整发展体系，为不同层次的玩家提供多元化发展空间。在跨校合作方面，于2020年秋季发起成立[中国Minecraft高校联盟](http://wiki.mualliance.ltd/)，与全国高校MC社群保持深度协作关系。当前社区运营的生存模式服务器已进入第五周目新纪元，持续为玩家创造优质的游戏体验。
+IMUcraft创立于2023年初，最初由Ysjttt在B站发布相关内大复原视频引发本校及社会人士关注，经过半年的发展，我们由最初的一穷二白到现在加入MUA、租赁并建立属于自己的多种云服务器（包括但不限于主城、创造复原服、小游戏服等等）、建立皮肤站并与MUA皮肤站联合登录、与MUA高校与各大媒体联合投稿、参与MUA活动等等，不断活跃壮大。复原工程相关视频B站总播放量超过一万，获得学校及社会各界人士的高度赞赏与认同。在接下来的发展中，我们将以复原作为中心，在保证复原工程进行下不断开拓多种服务器。
 
 
 ::: important 服务器地址
 
-公网：**`mc.npucraft.com`**
-
-校园网：**`lan.npucraft.com`**
-
+公网：**`play.imu.nm.cn`**
 :::
 
 <iframe
 style="width:728px;height:90px;max-width:100%;border:none;display:block;margin:auto;pointer-events:none"
-src="https://de.namemc.com/server/mc.npucraft.com/embed"
+src="https://de.namemc.com/server/play.imu.nm.cn/embed"
 width="728"
 height="90"
 sandbox="allow-same-origin">
