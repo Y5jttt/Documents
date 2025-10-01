@@ -1,8 +1,7 @@
 ---
 title: 软件环境
 icon: devicon:java
-author: SUPER2FH
-date: 2025-03-20
+author: Ysjttt
 prev: ./
 ---
 
@@ -26,9 +25,8 @@ prev: ./
   |          描述          |                    内容                    |
   | :--------------------: | :----------------------------------------: |
   |  登陆方式（**必选**）  | `第三方登录：Authlib Injector或LittleSkin` |
-  | 认证服务器（**必填**） |  `https://skin.npucraft.com/api/yggdrasil`   |
-  |    注册链接（可选）    | `https://skin.npucraft.com/auth/register`  |
-  |   服务器名称（可选）   |              `NPUskin皮肤站`               |
+  | 认证服务器（**必填**） |  `https://skin.imucraft.com/api/yggdrasil`   |
+  |    注册链接（可选）    | `https://skin.imucraft.com/auth/register`  |
+  |   服务器名称（可选）   |              `IMUcraft皮肤站`               |
   
-- 或者，[群文件下载最新整合包](https://qm.qq.com/q/o8QhAscYec)
 
