@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://docs.npucraft.com/sitemap.xml
+Sitemap: https://docs.imucraft.cn/sitemap.xml
