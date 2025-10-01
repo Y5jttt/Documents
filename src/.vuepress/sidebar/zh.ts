@@ -3,7 +3,6 @@ import { sidebar } from "vuepress-theme-hope";
 export const zhSidebar = sidebar({
     "/Overview/": [
       "",
-      "TechnicalArchitecture",
       "Changelog",
     ],
     "/QuickStart/": [
@@ -22,7 +21,11 @@ export const zhSidebar = sidebar({
       "Zhucheng",
     ],
 
-    "/PlayerProfiles/": "structure",
+    "/Economy/": 
+    [
+      "ComsumeMoney",
+      "GetMoney",
+    ],
 
     "/Plugins/": [
       "LiteSignin",
