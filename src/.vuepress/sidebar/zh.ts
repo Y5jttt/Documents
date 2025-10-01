@@ -28,7 +28,7 @@ export const zhSidebar = sidebar({
     "/Plugins/": [
       "LiteSignin",
       "Bank",
-      "Ultrashop",
+      "Ultimateshop",
       "Lottery",
     ],
 
