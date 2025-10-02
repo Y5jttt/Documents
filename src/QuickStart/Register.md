@@ -47,7 +47,7 @@ IMUcraft账号是您访问IMUcraft的唯一凭据，请不要外借您的账号�
 
 ## 一、皮肤站账号注册
 
-首先，访问我们的皮肤站，可以通过上面的友情链接来快速跳转，教师及职工请使用@imu.edu.cn后缀，学生请使用@mail.imu.edu.cn后缀，填写完成后，点击注册按钮。
+首先，访问我们的[IMUcraft皮肤站](https://skin.imucraft.cn)，教师及职工请使用@imu.edu.cn后缀，学生请使用@mail.imu.edu.cn后缀，填写完成后，点击注册按钮。
 
 ![01](https://lsky.imucraft.cn/i/2025/10/02/40.png)
 
@@ -129,7 +129,7 @@ Bing搜索HMCL，点击并进入。
 
 ## 三、游戏的下载与启动-PCL启动器
 
-Bing搜索HMCL，点击并进入，开始下载
+Bing搜索PCL，点击并进入，开始下载
 
 ![21](https://lsky.imucraft.cn/i/2025/10/02/25.png)
 
