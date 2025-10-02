@@ -26,8 +26,8 @@ author: Ysjttt
 在使用我们提供的以下服务时，我们可能会收集你的信息：
 
 * 网站主页，域名为\*.imucraft.cn、\*.imu.nm.cn，可能会收集你的Cookies。
-* 皮肤站，域名为skin.imucraft.cn，可能会收集你的Cookies和来自第三方的信息。
-* 社团相关问卷，域名为wenjuan.imucraft.cn，可能会收集来自第三方的信息和其他信息。
+* 皮肤站，域名为 skin.imucraft.cn，可能会收集你的Cookies和来自第三方的信息。
+* 社团相关问卷，域名为 wenjuan.imucraft.cn，可能会收集来自第三方的信息和其他信息。
 * Minecraft服务器，域名为\*.imucraft.cn、\*.imu.nm.cn，可能会收集你的游戏日志。
 
 # 收集信息的方式
