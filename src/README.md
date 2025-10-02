@@ -84,5 +84,13 @@ copyright:
 footer: 
   使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VuePress Theme Hope</a> 主题 | MIT 协议, 版权所有 © 2025-至今 | 
   <a href="https://beian.miit.gov.cn/" target="_blank">鲁ICP备2023015906号-1</a>
-  <div style="width:300px;"><a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=15010402000657" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;"><img src="https://skin.imucraft.cn/app/beian.png" style="float:left;"/><p style="float:left;height:20px;line-height:20px;margin: 0px 0px 0px 5px; color:#939393;">蒙公网安备 15010402000657号</p></a>
+  <div style="width:300px;">
+  <a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=15010402000657" 
+     style="display:inline-block;text-decoration:none;height:20px;line-height:20px;">
+    <img src="https://skin.imucraft.cn/app/beian.png" style="float:left;"/>
+    <p style="float:left;height:20px;line-height:20px;margin:0 0 0 5px;color:#939393;">
+      蒙公网安备 15010402000657 号
+    </p>
+  </a>
+</div>
 ---
