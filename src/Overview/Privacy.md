@@ -1,6 +1,6 @@
 ---
-title: 更新日志
-icon: fluent-color:history-32
+title: 隐私声明
+icon: https://lsky.imucraft.cn/i/2025/10/02/68de1d1acf45e.png
 author: Ysjttt
 ---
 
