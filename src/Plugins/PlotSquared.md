@@ -1,11 +1,7 @@
 ---
-title: PlotSquared
+title: 地皮插件
 icon: https://raw.githubusercontent.com/IntellectualSites/Assets/main/plugins/PlotSquared/PlotSquared.svg
-author: SUPER2FH
-category:
-  - BasePlugin
-tag: 
-  - Creative
+author: Ysjttt
 ---
 
 

@@ -32,6 +32,7 @@ export const zhSidebar = sidebar({
       "Bank",
       "Ultimateshop",
       "Lottery",
+      "PlotSquared",
     ],
 
 });
