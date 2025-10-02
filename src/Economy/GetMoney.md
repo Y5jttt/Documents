@@ -1,6 +1,6 @@
 ---
 title: 如何挣钱
-icon: https://skin.npucraft.com/avatar/1030
+icon: https://lsky.imucraft.cn/i/2025/10/02/68dde61a2dea2.png
 author: Ysjttt
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 如何花钱
-icon: https://skin.npucraft.com/avatar/1030
+icon: https://lsky.imucraft.cn/i/2025/10/02/68dde640096f0.png
 author: Ysjttt
 ---
 
