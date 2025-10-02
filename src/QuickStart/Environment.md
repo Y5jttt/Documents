@@ -2,6 +2,7 @@
 title: 软件环境
 icon: devicon:java
 author: Ysjttt
+date: 2025-10-02
 prev: ./
 ---
 

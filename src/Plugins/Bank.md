@@ -2,6 +2,7 @@
 title: 银行插件
 icon: https://lsky.imucraft.cn/i/2025/10/02/68dde0ac2f198.png
 author: Ysjttt
+date: 2025-10-02
 ---
 
 ## Sheet1

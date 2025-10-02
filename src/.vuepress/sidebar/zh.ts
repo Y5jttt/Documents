@@ -4,6 +4,7 @@ export const zhSidebar = sidebar({
     "/Overview/": [
       "",
       "Changelog",
+      "AboutMUA",
     ],
     "/QuickStart/": [
       // "",

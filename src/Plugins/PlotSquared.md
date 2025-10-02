@@ -1,6 +1,6 @@
 ---
 title: 地皮插件
-icon: https://raw.githubusercontent.com/IntellectualSites/Assets/main/plugins/PlotSquared/PlotSquared.svg
+icon: https://lsky.imucraft.cn/i/2025/10/02/68dde205e7c0b.png
 author: Ysjttt
 ---
 

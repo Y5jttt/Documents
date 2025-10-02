@@ -1,7 +1,8 @@
 ---
 title: 提问的智慧
 icon: noto-v1:exclamation-question-mark
-author: SUPER2FH
+author: SUPER2FH & Ysjttt
+date: 2025-10-02
 ---
 
 

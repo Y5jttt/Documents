@@ -2,6 +2,7 @@
 title: 快速入门
 icon: streamline-emojis:rocket
 author: Ysjttt
+date: 2025-10-02
 ---
 
 在开始前，请确认你拥有以下基础：

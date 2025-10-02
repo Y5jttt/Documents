@@ -1,10 +1,9 @@
 ---
 title: 地皮世界
 shortTitle: 地皮世界
-icon: https://cos.npucraft.com/2025/03/12/67d182f1dbbf4.png
+icon: https://lsky.imucraft.cn/i/2025/10/02/68dde33278882.png
 author: Ysjttt
 
-order: 1
 ---
 
 

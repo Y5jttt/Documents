@@ -1,3 +1,5 @@
+# 本文档站根据[NPUcraft文档站](https://docs.npucraft.com)改造而来，非常感谢NPUcraft对开源项目的贡献。
+
 # NPUcraft Documents 
 ![MIT License](https://img.shields.io/badge/license-MIT-blue) ![VuePress 2.0](https://img.shields.io/badge/VuePress-2.0-42b883)
 

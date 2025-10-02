@@ -1,6 +1,6 @@
 ---
 title: LiteSignin 每日签到
-icon: https://docs.leavesmc.org/logo.svg
+icon: https://lsky.imucraft.cn/i/2025/10/02/68dde1c4e36da.png
 author: Ysjttt
 ---
 

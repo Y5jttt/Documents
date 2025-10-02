@@ -1,10 +1,9 @@
 ---
 title: 主城
 shortTitle: 主城
-icon: https://cos.npucraft.com/2025/03/12/67d182f1dbbf4.png
+icon: https://lsky.imucraft.cn/i/2025/10/02/68dde3e97a6da.png
 author: Ysjttt
 
-order: 1
 ---
 
 

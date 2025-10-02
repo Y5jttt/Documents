@@ -2,6 +2,7 @@
 title: 账号注册
 icon: fluent-emoji:registered
 author: Ysjttt
+date: 2025-10-02
 ---
 
 
